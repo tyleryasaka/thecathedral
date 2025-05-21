@@ -5,3 +5,15 @@
 .footer-meta .meta-copyright .info-text.info-text-1 p {
     color: #fff;
 }
+
+.bg-black {
+    background-color: #000;
+}
+
+a.navbar-logo span {
+    color: #fff;
+}
+
+.footer {
+    background-color: #000;
+}
