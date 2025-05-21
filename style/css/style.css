@@ -20,6 +20,13 @@ a:hover {
     font-style: normal;
 }
 
+.body-text {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: regular;
+    font-style: normal;
+}
+
 .page-wrapper {
     display: flex;
     flex-direction: column;
@@ -121,11 +128,16 @@ a.navbar-logo span {
     margin-bottom: -10px;
 }
 
+.post-container {
+    padding-left: 0;
+}
+
 .post-container .post-content {
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 30px;
+    font-family: "EB Garamond", serif;
 }
 
 .post-content h2::before {
