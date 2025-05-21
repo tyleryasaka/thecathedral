@@ -16,4 +16,11 @@ a.navbar-logo span {
 
 .footer {
     background-color: #000;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
+
+/* .footer-meta .meta-copyright .info-text a {
+    color:
+} */
