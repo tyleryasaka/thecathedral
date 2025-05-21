@@ -108,3 +108,23 @@ a.navbar-logo span {
 .footer {
     color: #fbf4ee;
 }
+
+.post-header {
+    margin-bottom: 30px;
+    font-family: "Ancizar Serif", serif;
+}
+
+.post-title {
+    font-size: 36px;
+    font-family: "Ancizar Serif", serif;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+
+.post-container {
+    padding-left: 0;
+}
+
+.post-content h2::before {
+    content: "";
+}
