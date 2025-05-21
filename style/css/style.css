@@ -16,6 +16,23 @@ body {
     margin-top: 70px;
 }
 
+.post-lists-body {
+    display: grid;
+}
+
+/* Tablet and up: 2 columns */
+@media (min-width: 600px) {
+    .card-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 900px) {
+    .card-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
 .navbar-logo.navbar-logo-1 {
     color: #fff;
 }
