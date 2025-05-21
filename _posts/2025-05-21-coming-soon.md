@@ -6,9 +6,6 @@ categories: tutorial
 image: /style/image/logo_v3.png
 ---
 
-* content
-{:toc}
-
 ## Coming soon
 
 I am currently conducting interviews.
