@@ -2,6 +2,16 @@ html,
 body {
     height: 100%;
     margin: 0;
+    background-color: #fbf4ee;
+}
+
+a {
+    color: #ddd6d0;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #fff;
 }
 
 .title-text {
@@ -97,9 +107,4 @@ a.navbar-logo span {
 .header,
 .footer {
     color: #fbf4ee;
-}
-
-.header a:hover,
-.footer a:hover {
-    color: #fff;
 }
