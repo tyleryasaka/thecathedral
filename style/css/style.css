@@ -13,6 +13,7 @@ body {
 .main-content {
     flex: 1;
     padding: 1rem;
+    margin-top: 70px;
 }
 
 .navbar-logo.navbar-logo-1 {
@@ -42,3 +43,7 @@ a.navbar-logo span {
 /* .footer-meta .meta-copyright .info-text a {
     color:
 } */
+
+.post-list-item {
+    width: 300px;
+}
