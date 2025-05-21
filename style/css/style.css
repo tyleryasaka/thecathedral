@@ -4,6 +4,13 @@ body {
     margin: 0;
 }
 
+.title-text {
+    font-family: "Ancizar Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
 .page-wrapper {
     display: flex;
     flex-direction: column;
@@ -23,13 +30,13 @@ body {
 
 /* Tablet and up: 2 columns */
 @media (min-width: 600px) {
-    .main-content {
+    .post-lists-body {
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media (min-width: 900px) {
-    .main-content {
+    .post-lists-body {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
