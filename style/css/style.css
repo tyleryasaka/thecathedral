@@ -43,6 +43,20 @@ body {
 
 .navbar-logo.navbar-logo-1 {
     color: #fff;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.navbar-logo.navbar-logo-1 span {
+    margin-left: 10px;
+    font-size: 36px;
+    color: #fbf4ee;
+}
+
+.navbar-logo img {
+    height: 28px;
 }
 
 .footer-meta .meta-copyright .info-text.info-text-1 p {
