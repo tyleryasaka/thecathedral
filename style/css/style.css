@@ -138,6 +138,7 @@ a.navbar-logo span {
     padding-left: 30px;
     padding-right: 30px;
     font-family: "EB Garamond", serif;
+    font-size: 18px;
 }
 
 .post-content h2::before {
