@@ -7,6 +7,4 @@ youtube: https://youtu.be/smntK7WgRHA
 thumbnail: /style/image/logo_v3.png
 ---
 
-## Coming soon
-
 I am currently conducting interviews.
