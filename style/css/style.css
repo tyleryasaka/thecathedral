@@ -1,3 +1,20 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    padding: 1rem;
+}
+
 .navbar-logo.navbar-logo-1 {
     color: #fff;
 }
@@ -16,9 +33,10 @@ a.navbar-logo span {
 
 .footer {
     background-color: #000;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+}
+
+.footer-meta .footer-container {
+    height: auto;
 }
 
 /* .footer-meta .meta-copyright .info-text a {
