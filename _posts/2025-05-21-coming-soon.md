@@ -7,4 +7,4 @@ youtube: https://www.youtube.com/embed/smntK7WgRHA?si=IgTpoV3VYrpS2pLy
 thumbnail: /style/image/logo_v3.png
 ---
 
-I am currently conducting interviews.
+I am currently conducting interviews. Please enjoy peaceful music in the meantime.
