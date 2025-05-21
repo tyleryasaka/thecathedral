@@ -23,13 +23,13 @@ body {
 
 /* Tablet and up: 2 columns */
 @media (min-width: 600px) {
-    .card-container {
+    .main-content {
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media (min-width: 900px) {
-    .card-container {
+    .main-content {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
@@ -64,4 +64,9 @@ a.navbar-logo span {
 
 .post-list-item {
     width: 300px;
+}
+
+.header a,
+.footer a {
+    color: #fff;
 }
