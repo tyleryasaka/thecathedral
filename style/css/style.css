@@ -7,7 +7,6 @@ body {
 .title-text {
     font-family: "Ancizar Serif", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
 
@@ -51,12 +50,15 @@ body {
 
 .navbar-logo.navbar-logo-1 span {
     margin-left: 10px;
-    font-size: 36px;
+    font-size: 48px;
     color: #fbf4ee;
+    margin-top: 0;
+    top: auto;
+    font-weight: 300;
 }
 
 .navbar-logo img {
-    height: 28px;
+    height: 36px;
 }
 
 .footer-meta .meta-copyright .info-text.info-text-1 p {
