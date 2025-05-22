@@ -76,6 +76,12 @@ a:hover {
 }
 
 @media (max-width: 650px) {
+    .navbar-logo.navbar-logo-1 span {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 650px) {
     .footer-meta .meta-copyright .info-text p {
         font-size: 26px;
     }
@@ -116,6 +122,12 @@ a.navbar-logo span {
 
 .post-list-item {
     width: 300px;
+}
+
+@media (max-width: 650px) {
+    .post-list-item {
+        width: 100%;
+    }
 }
 
 .header,
@@ -174,6 +186,7 @@ a.navbar-logo span {
 @media (max-width: 650px) {
     .footer-meta .meta-copyright .info-text {
         float: none;
+        font-size: 18px;
     }
 }
 
