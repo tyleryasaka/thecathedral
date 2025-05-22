@@ -183,6 +183,10 @@ a.navbar-logo span {
     height: 100%;
 }
 
+.footer-meta .meta-item {
+    width: 100%;
+}
+
 @media (max-width: 650px) {
     .footer-meta .meta-copyright .info-text {
         float: none;
