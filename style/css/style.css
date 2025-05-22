@@ -91,9 +91,19 @@ a:hover {
     height: 36px;
 }
 
+.footer {
+    padding-bottom: 0;
+}
+
 .footer-meta {
-    padding: 0;
+    padding: 20px 0;
     text-align: center;
+}
+
+@media (max-width: 650px) {
+    .footer-meta {
+        padding-bottom: 0;
+    }
 }
 
 .footer-meta .meta-copyright .info-text.info-text-1 p {
