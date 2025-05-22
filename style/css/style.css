@@ -115,6 +115,10 @@ a:hover {
     font-weight: bold;
 }
 
+.footer-social .social-list a {
+    font-size: 18px;
+}
+
 @media (max-width: 650px) {
     .footer-social {
         display: block;
