@@ -190,6 +190,8 @@ a.navbar-logo span {
 @media (max-width: 650px) {
     .footer-meta .meta-copyright .info-text {
         float: none;
+    }
+    .footer-meta .meta-copyright .info-text p {
         font-size: 18px;
     }
 }
