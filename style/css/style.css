@@ -235,3 +235,13 @@ a.navbar-logo span {
     display: flex;
     justify-content: center;
 }
+
+.substack-outer .substack-post-embed {
+    width: 500px;
+}
+
+@media (max-width: 650px) {
+    .substack-outer .substack-post-embed {
+        width: 100%;
+    }
+}
