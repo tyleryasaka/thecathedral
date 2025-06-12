@@ -230,3 +230,8 @@ a.navbar-logo span {
         text-align: center;
     }
 }
+
+.substack-outer {
+    display: flex;
+    justify-content: center;
+}
