@@ -240,6 +240,11 @@ a.navbar-logo span {
     width: 500px;
 }
 
+.substack-subscribe {
+    display: block;
+    margin: 50px auto;
+}
+
 @media (max-width: 650px) {
     .substack-outer .substack-post-embed {
         width: 100%;
