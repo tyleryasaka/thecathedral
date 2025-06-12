@@ -21,6 +21,10 @@ layout: default
                         <iframe width="560" height="315" src="{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 {% endif %}
+                {% if page.substack %}
+                <div class="substack-post-embed">
+                    <p lang="en">{{ page.substack_title }}</p><p>{{ page.substack_subtitle }}</p><a data-post-link href="{{ page.substack }}">Listen on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+                {% endif %}
                 {{ content }}
             </article>
         </div>
