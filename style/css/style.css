@@ -189,6 +189,10 @@ a.navbar-logo span {
     content: "";
 }
 
+.post-content p img {
+    width: 300px;
+}
+
 .youtube-container {
     text-align: center;
     position: relative;
