@@ -9,4 +9,6 @@ The Cathedral is a symbol, then, of the academic establishment. Credit for this 
 
 My name is Tyler Yasaka, and I'm in a dual-degree MD/PhD program studying liver biology. I grew up in a small town in Alabama, well outside the academic establishment. Until I began pursuing this career, scientific research felt inaccessible to me. My goal with this podcast is to increase transparency into the academic establishment, particularly in biomedical research, through thought-provoking conversations with some of the brightest minds in science. This is and always will be a side project for me, and I will not run ads or make a penny from this work. All opinions I express are my own.
 
+<iframe src="https://cathedralpodcast.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ![Picture of me, Tyler Yasaka](/style/image/me.png)
